@@ -1,1 +1,1 @@
-Terra Classic L1 Task Force GitHub Organization
+Terra Classic Validators GitHub Organization
